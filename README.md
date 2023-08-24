@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm Isaac Lerma, a passionate Full Stack Developer
 
 ## 🔧 Technologies I Work With
 
+- **Languages**: Javascript, Typescript, Kotlin, Python
 - **Front-End**: Astro, Angular, React
 - **Back-End**: Node.js, Express, Nest.js, Adonis.js, GraphQL
-- **Databases**: MySQL, MongoDB, DynamoDB, PlanetScale (MySQL).
+- **Databases**: MySQL, MongoDB, DynamoDB, PlanetScale (MySQL)
 - **Dev Tools**: Git, VSCode, Docker, Postman
 - **Testing**: Jest, Vitest
 - **Cloud**: AWS
