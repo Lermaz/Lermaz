@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**Lermaz/Lermaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Isaac Lerma, a passionate Full Stack Developer fueled by curiosity and driven by the love for clean code. With a knack for creating seamless user experiences and robust back-end solutions, I thrive in the world where pixels meet databases.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End**: Astro, Angular, React
+- **Back-End**: Node.js, Express, Nest.js, Adonis.js, GraphQL
+- **Databases**: MySQL, MongoDB, DynamoDB, PlanetScale (MySQL).
+- **Dev Tools**: Git, VSCode, Docker, Postman
+- **Testing**: Jest, Vitest
+- **Cloud**: AWS
+
+## 🌱 My next tech's to learn
+- Go
+- Nextjs
+- TRPC
+- T3-Stack
+- Tailwindcss
+- Vercel
+- Redis
+
+## 💬 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or have a chat about tech trends. Feel free to reach out through [email](mailto:lermalizarraga@gmail.com) or find me on [Twitter](https://twitter.com/lermazcope).
