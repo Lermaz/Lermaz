@@ -2,24 +2,9 @@
 
 Welcome to my GitHub profile! I'm Isaac Lerma, a passionate Full Stack Developer fueled by curiosity and driven by the love for clean code. With a knack for creating seamless user experiences and robust back-end solutions, I thrive in the world where pixels meet databases.
 
-## 🔧 Technologies I Work With
+## Portfolio
 
-- **Languages**: Javascript, Typescript, Kotlin, Python
-- **Front-End**: Astro, Angular, React
-- **Back-End**: Node.js, Express, Nest.js, Adonis.js, GraphQL
-- **Databases**: MySQL, MongoDB, DynamoDB, PlanetScale (MySQL)
-- **Dev Tools**: Git, VSCode, Docker, Postman
-- **Testing**: Jest, Vitest
-- **Cloud**: AWS
-
-## 🌱 My next tech's to learn
-- Go
-- Nextjs
-- TRPC
-- T3-Stack
-- Tailwindcss
-- Vercel
-- Redis
+Check my [portfolio](https://www.lermaz.dev/) site web. 
 
 ## 💬 Let's Connect!
 
