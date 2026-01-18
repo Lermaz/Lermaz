@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm Isaac Lerma, a passionate Full Stack Developer fueled by curiosity and driven by the love for clean code. With a knack for creating seamless user experiences and robust back-end solutions, I thrive in the world where pixels meet databases.
+Welcome to my GitHub profile! I'm Isaac Lerma, a passionate Developer fueled by curiosity and driven by the love for clean code. With a knack for creating seamless user experiences and robust back-end solutions, I thrive in the world where pixels meet databases.
 
 ## Portfolio
 
