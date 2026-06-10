@@ -8,4 +8,4 @@ Check my [portfolio](https://www.lermaz.dev/) site web.
 
 ## 💬 Let's Connect!
 
-I'm always excited to collaborate on interesting projects or have a chat about tech trends. Feel free to reach out through [email](mailto:lermalizarraga@gmail.com) or find me on [Twitter](https://twitter.com/lermazcope).
+I'm always excited to collaborate on interesting projects or have a chat about tech trends. Feel free to reach out through [email](mailto:lermalizarraga@gmail.com) or find me on [Twitter](https://x.com/LermaIsaac29729).
